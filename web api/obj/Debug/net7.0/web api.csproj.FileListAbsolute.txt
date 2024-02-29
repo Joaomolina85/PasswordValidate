@@ -1,0 +1,86 @@
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\appsettings.json
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\web api.exe
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\web api.deps.json
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\web api.runtimeconfig.json
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\web api.dll
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\web api.pdb
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\web api.csproj.AssemblyReference.cache
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\web api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\web api.AssemblyInfoInputs.cache
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\web api.AssemblyInfo.cs
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\web api.csproj.CoreCompileInputs.cache
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\web api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\web api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\staticwebassets\msbuild.web api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\staticwebassets\msbuild.build.web api.props
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.web api.props
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.web api.props
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\scopedcss\bundle\web api.styles.css
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\web api.csproj.CopyComplete
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\web api.dll
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\refint\web api.dll
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\web api.pdb
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\web api.genruntimeconfig.cache
+C:\Users\joaom\source\repos\web api\obj\Debug\net7.0\ref\web api.dll
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\joaom\source\repos\web api\bin\Debug\net7.0\System.CodeDom.dll
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\appsettings.Development.json
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\appsettings.json
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\web api.exe
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\web api.deps.json
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\web api.runtimeconfig.json
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\web api.dll
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\web api.pdb
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\Humanizer.dll
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\MySqlConnector.dll
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\xampp\htdocs\PasswordValidate\web api\bin\Debug\net7.0\System.CodeDom.dll
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\web api.csproj.AssemblyReference.cache
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\web api.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\web api.AssemblyInfoInputs.cache
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\web api.AssemblyInfo.cs
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\web api.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\web api.MvcApplicationPartsAssemblyInfo.cs
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\web api.MvcApplicationPartsAssemblyInfo.cache
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\staticwebassets\msbuild.web api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\staticwebassets\msbuild.build.web api.props
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.web api.props
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.web api.props
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\staticwebassets.build.json
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\staticwebassets.development.json
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\scopedcss\bundle\web api.styles.css
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\web api.csproj.CopyComplete
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\web api.dll
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\refint\web api.dll
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\web api.pdb
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\web api.genruntimeconfig.cache
+C:\xampp\htdocs\PasswordValidate\web api\obj\Debug\net7.0\ref\web api.dll

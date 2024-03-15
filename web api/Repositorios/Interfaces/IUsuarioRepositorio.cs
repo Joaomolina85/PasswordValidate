@@ -8,7 +8,6 @@ namespace web_api.Repositorios.Interfaces
         Task<List<UsuarioModel>> BuscarTodosUsuarios();
         Task<UsuarioModel> BuscarPorId(int Id);
         Task<UsuarioModel> Atualizar(UsuarioModel dados, int Id);
-
         Task<UsuarioModel> Deletar(int Id);
     }
 }

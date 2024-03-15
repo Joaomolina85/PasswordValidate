@@ -24,6 +24,7 @@ namespace web_api
             builder.Services.AddSwaggerGen();
 
             builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
+            builder.Services.AddScoped<IUsuarioObsRepositorio, UsuarioObsRepositorio>();
 
             var app = builder.Build();
 

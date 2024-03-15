@@ -10,5 +10,6 @@ namespace web_api.Data
         {
         }
         public DbSet<UsuarioModel> usuario { get; set; }
+        public DbSet<UsuarioObs>obs_usuario { get; set; }
     }
 }
